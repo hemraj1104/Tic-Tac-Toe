@@ -65,11 +65,6 @@ This project helped me strengthen:
 
 ---
 
-## 📸 Preview
-
-> Open the live link above to see the game in action.
-
----
 
 ## 👨‍💻 Author
 
