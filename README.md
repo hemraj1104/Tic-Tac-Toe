@@ -6,7 +6,7 @@ This project demonstrates core front-end fundamentals such as DOM manipulation, 
 ---
 
 ## 🚀 Live Demo
-👉 https://hemraj1104.github.io/tic-tac-toe/
+👉 https://hemraj1104.github.io/Tic-Tac-Toe/
 
 ---
 
